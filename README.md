@@ -1,0 +1,1 @@
+# spike-symlink-test
